@@ -24,7 +24,7 @@ public class ApplicationBancaire {
         System.out.print("Entrez l'email : ");
         String email = scanner.nextLine();
 
-        System.out.print("Entrez le nom de la banque : ");
+        System.out.print("Entrez la banque : ");
         String nomBanque = scanner.nextLine();
 
         // Création d’un objet (classe CompteBancaire)
