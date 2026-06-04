@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Multiplication">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Multiplication/Calendar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Multiplication/Calc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
